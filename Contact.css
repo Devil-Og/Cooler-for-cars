@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container
+{
+    background-image: url(C-bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
